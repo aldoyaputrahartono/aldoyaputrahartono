@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=aldoyaputrahartono&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoyaputrahartono&langs_count=5&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aldoyaputrahartono/aldoyaputrahartono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
