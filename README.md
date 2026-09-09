@@ -1,19 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=aldoyaputrahartono&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aldoyaputrahartono&langs_count=5&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+I'm **Aldo Yaputra Hartono** — welcome to my GitHub profile! 🚀
 
-<!--
-**aldoyaputrahartono/aldoyaputrahartono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things, learning new technologies, and turning ideas into working projects.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldoyaputrahartono&show_icons=true&count_private=true&hide_border=true" alt="Aldo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoyaputrahartono&langs_count=5&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🚀 What I'm Up To
+
+- 🔭 Working on interesting projects
+- 🌱 Continuously learning and exploring new technologies
+- 👯 Open to collaborating on cool projects
+- 💬 Feel free to reach out and say hello!
+
+## 🤝 Let's Connect
+
+Thanks for stopping by! ⭐
