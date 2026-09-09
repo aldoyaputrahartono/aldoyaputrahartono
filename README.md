@@ -7,8 +7,8 @@ I enjoy building things, learning new technologies, and turning ideas into worki
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldoyaputrahartono&show_icons=true&count_private=true&hide_border=true" alt="Aldo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldoyaputrahartono&langs_count=5&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ## 🚀 What I'm Up To
